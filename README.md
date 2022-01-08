@@ -30,7 +30,7 @@ After analyzing the data
 4.	Goal Amount 45000 to 49999 has the least amount of failed outcomes
 
 **Data table for Goals outcomes:**
- 
+ https://github.com/Jayanti2019/Kickstarter-Analysis/blob/42511d142079953c6d2256b32df6855ac8246a25/Goals_DataTable.png
 
 **Visualization for Goals Outcomes:**
  
