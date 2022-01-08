@@ -21,7 +21,7 @@ After analyzing the data
  https://github.com/Jayanti2019/Kickstarter-Analysis/blob/2388b76e5a80735f614b5b551f31667d9aacbdc7/TheaterOutcomes_DataTable.png
  
 **Visualized data analysis through chart:**
- 
+ https://github.com/Jayanti2019/Kickstarter-Analysis/blob/37ffa6d95593fc93fdbb3c77639873e44a6d7ecf/Theater_Outcomes_Vs_Launch.png
 
 **Outcomes Based on Goals:**
 1.	Goal amount less than 1000 has the most percentage of successful outcomes
