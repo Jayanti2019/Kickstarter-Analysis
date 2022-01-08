@@ -18,6 +18,7 @@ After analyzing the data
 5.	Canceled outcomes are not changed much over campaign time.
 
 **Data Table for Theater outcomes:**
+ https://github.com/Jayanti2019/Kickstarter-Analysis/blob/2388b76e5a80735f614b5b551f31667d9aacbdc7/TheaterOutcomes_DataTable.png
  
 **Visualized data analysis through chart:**
  
