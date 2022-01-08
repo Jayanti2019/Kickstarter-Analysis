@@ -33,7 +33,7 @@ After analyzing the data
  https://github.com/Jayanti2019/Kickstarter-Analysis/blob/42511d142079953c6d2256b32df6855ac8246a25/Goals_DataTable.png
 
 **Visualization for Goals Outcomes:**
- 
+https://github.com/Jayanti2019/Kickstarter-Analysis/blob/1d2e5f2a58f3cfad54d8e610425ea81a6c2d0fb7/Outcomes_vs_Goals.png 
 
 **Results:**
 
